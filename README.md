@@ -17,5 +17,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rk-Engineer&show_icons=true&theme=dark)
 
 ## 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 💻 [Portfolio](https://rk-engineer.github.io/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rk-engineer//)  
+- 💻 [Portfolio](https://github.com/Rk-Engineer)  
