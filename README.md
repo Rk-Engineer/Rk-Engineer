@@ -14,7 +14,7 @@
 - **Version Control**: Git, GitHub  
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rk-Engineer&show_icons=true&theme=dark)
+![Ramkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rk-Engineer&show_icons=true&theme=dark&count_private=true)
 
 ## 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rk-engineer//)  
