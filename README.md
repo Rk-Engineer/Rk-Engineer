@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ramkumar 👋
 
-<!--
-**Rk-Engineer/Rk-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 3rd-year student at Sathyabama Institute of Science and Technology  
+- 💻 Aspiring Software Engineer | Java Full Stack & MERN Developer  
+- 🌱 Currently learning **React & MERN Stack**  
+- 🔍 Interested in **Backend Development, APIs, and Full Stack Projects**  
+- 🏆 Secured **3rd Prize** in Cyber Forensic Event  
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: Java, JavaScript, SQL  
+- **Frameworks & Tools**: Spring Boot, React, Node.js, Express.js  
+- **Databases**: MySQL, MongoDB, Neo4j  
+- **Version Control**: Git, GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rk-Engineer&show_icons=true&theme=dark)
+
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
+- 💻 [Portfolio](https://rk-engineer.github.io/)  
