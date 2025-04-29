@@ -65,7 +65,7 @@
 </a>
 
 <a href="https://github.com/Rk-Engineer/driver_drowsiness_detection">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=driver_drowsiness_detection&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankraveendrababu&repo=driver_drowsiness_detection&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 
 
