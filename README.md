@@ -8,7 +8,7 @@
 <h4 align="center">A Pre-Final Year Student pursuing B E Computer Science and Engineering at Sathyabama Institute of Science and Technology</h4>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=008FF7F&size=36&center=true&vCenter=true&width=600%&lines=Software+Developer;Competitive+Programmer;Tech+Enthusiast;Filmophile;Data+Scientist"/>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=008FF7F&size=36&center=true&vCenter=true&width=600%&lines=Software+Developer;FullStack+Developer;Competitive+Programmer;Tech+Enthusiast;Filmophile;"/>
 <br>
 
 
@@ -48,12 +48,12 @@
 
 <br>
 <a href="https://github.com/Rk-Engineer/securin_patch_intelligence">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankraveendrababu&repo=securin_patch_intelligence&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=securin_patch_intelligence&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 
 
 <a href="https://github.com/Rk-Engineer/AgeDetection">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankraveendrababu&repo=Optiprice-Prognasticator&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=AgeDetection&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 
 
@@ -61,7 +61,11 @@
 <br>
 
 <a href="https://github.com/Rk-Engineer/Student-Management-System">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankraveendrababu&repo=Smart-attendance-system&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=Student-Management-System&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+</a>
+
+<a href="https://github.com/Rk-Engineer/driver_drowsiness_detection">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=driver_drowsiness_detection&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 
 
@@ -69,7 +73,7 @@
 <br>
 
 <a href="https://github.com/Rk-Engineer/ExpenseTracker">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankraveendrababu&repo=gender-age-prediction&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=ExpenseTracker&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 
 <br>
@@ -113,11 +117,7 @@
 
 </div>
 
-<br><br>
 
-[![An image of @roshankraveendrababu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roshankraveendrababu)](https://holopin.io/@roshankraveendrababu)
-
-<br><br>
 
 
 <p align="center"><b>Profile Views</b></p>
