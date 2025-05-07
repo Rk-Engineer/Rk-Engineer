@@ -87,7 +87,7 @@
 <h2 style="color: #44AEFB">🏆 Github Trophies</h2>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=roshankraveendrababu&theme=radical" alt="roshankraveendrababu" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Rk-Engineer&theme=radical" alt="Rk-Engineer" />
   </a> 
 </p>
 
@@ -100,19 +100,19 @@
 <div class="stats" align="center">
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=roshankraveendrababu&show_icons=true&count_private=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rk-Engineer&show_icons=true&count_private=true&theme=radical" />
 </div>
 
 <br><br>
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankraveendrababu&show_icons=true&theme=radical&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rk-Engineer&show_icons=true&theme=radical&card_width=500" />
 </div>
 
 <br><br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=roshankraveendrababu&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Rk-Engineer&theme=radical" alt="GitHub Streak"/>
 </div>
 
 </div>
@@ -121,7 +121,7 @@
 
 
 <p align="center"><b>Profile Views</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Broshankraveendrababu%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BRk-Engineer%7D/count.svg" alt="visitor badge"/></p>
 <br>
 
 
