@@ -47,34 +47,40 @@
 <h2 style="color: #44AEFB">📌 Pinned Repositories</h2>
 
 <br>
-<a href="https://github.com/Rk-Engineer/securin_patch_intelligence">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=securin_patch_intelligence&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
-</a>
-
-
-<a href="https://github.com/Rk-Engineer/AgeDetection">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=AgeDetection&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
-</a>
-
-
-<br>
-<br>
 
 <a href="https://github.com/Rk-Engineer/Student-Management-System">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=Student-Management-System&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 
-<a href="https://github.com/Rk-Engineer/driver_drowsiness_detection">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankraveendrababu&repo=driver_drowsiness_detection&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+<a href="https://github.com/Rk-Engineer/securin_patch_intelligence">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=securin_patch_intelligence&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 
+<br>
+<br>
 
-<br>
-<br>
+<a href="https://github.com/Rk-Engineer/AgeDetection">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=AgeDetection&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+</a>
 
 <a href="https://github.com/Rk-Engineer/ExpenseTracker">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=ExpenseTracker&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
+
+
+<br>
+<br>
+
+<a href="https://github.com/Rk-Engineer/AI-Interview-Trainer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=AI-Interview-Trainer&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+</a>
+
+<a href="https://github.com/Rk-Engineer/Personal-AI-ChatBot">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Rk-Engineer&repo=Personal-AI-ChatBot&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+</a>
+
+
+
 
 <br>
 
