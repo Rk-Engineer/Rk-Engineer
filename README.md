@@ -17,7 +17,7 @@ I enjoy working close to the fundamentals — **data structures, algorithms, cle
 ## 🛠 Technical Skills
 
 - **Languages:** Java, C, Python, JavaScript  
-- **Backend:** Spring Boot, Node.js  
+- **Backend:** Spring Boot
 - **Databases:** MySQL, MongoDB  
 - **Frontend (working knowledge):** React, HTML, CSS  
 - **Tools:** Git, GitHub, Linux  
